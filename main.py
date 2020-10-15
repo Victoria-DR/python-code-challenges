@@ -8,3 +8,4 @@ import prime_factors
 import palindrome
 import sort_words
 import index_all
+import roll_dice
